@@ -1,0 +1,40 @@
+
+
+html{
+	font-family: 'Righteous', cursive;
+	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Noto Serif TC', serif;
+	background-color: #3FBFBF;
+}
+
+body{
+	width: 600px;
+	margin: 0 auto;
+	background-color: #51687A; 
+	color: #FFFFFF;
+	padding: 0px 20px 20px 20px;
+	border: 5px solid white;
+
+}
+
+h1{
+	margin: 0;
+  	padding: 20px 0; 
+	font-size: 60px;
+	text-align: left;
+	text-shadow: 3px 3px 1px black;
+
+}
+
+img{
+	display: block;
+  	margin: 0 auto;
+  	height: 300px;
+  	width: 300px;
+}
+
+p. li{
+	font-size: 32px;    
+  	line-height: 2;
+  	letter-spacing: 1px;
+}
