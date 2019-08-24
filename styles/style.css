@@ -1,9 +1,8 @@
 
 
 html{
-	font-family: 'Righteous', cursive;
-	font-family: 'Shadows Into Light', cursive;
-	font-family: 'Noto Serif TC', serif;
+	font-size: 16px;
+	font-family:'Shadows Into Light' ,cursive,'Amatic SC',  cursive, 'Ubuntu', sans-serif, 'Righteous', cursive, 'Noto Serif TC', serif;
 	background-color: #3FBFBF;
 }
 
@@ -17,7 +16,7 @@ body{
 
 }
 
-h1{
+h1 {
 	margin: 0;
   	padding: 20px 0; 
 	font-size: 60px;
@@ -33,8 +32,6 @@ img{
   	width: 300px;
 }
 
-p. li{
-	font-size: 32px;    
-  	line-height: 2;
-  	letter-spacing: 1px;
+p, li {
+
 }
