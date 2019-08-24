@@ -1,2 +1,2 @@
 # YUCHI
-THis is my One Page Resume.
+This is my One Page Resume.
