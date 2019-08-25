@@ -8,9 +8,9 @@ myImage.onmouseenter = function(){
 
 	var mySrc = myImage.getAttribute('src');
 	if (mySrc === '../images/cover.png'){
-		myImage.setAttribute('src', '../images/cover2.jpg');
+		myImage.setAttribute('src', '../images/cover2.png');
 	}else {
-		myImage.setAttribute('src', '../images/cover.jpg');
+		myImage.setAttribute('src', '../images/cover.png');
 	}
 
 }
