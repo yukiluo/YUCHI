@@ -8,15 +8,16 @@ myImage.onmouseenter = function(){
 
 	var mySrc = myImage.getAttribute('src');
 	if (mySrc === '../images/cover.png'){
-		myImage.setAttribute('src', '../images/cover2.png');
+		myImage.setAttribute('src', '../images/cover2.jpg');
 	}else {
-		myImage.setAttribute('src', '../images/cover.png');
+		myImage.setAttribute('src', '../images/cover.jpg');
 	}
 
 }
 
 
 // customize a button for users
+
 
 
 var myButton = document.querySelector('button');
@@ -36,8 +37,8 @@ function setUserName(){
 	var storedName = localStorage.getItem('name');
 	myHeading.innerHTML = "Hi, I'm YUCHI.\n\r"+ " Welcome Back, "+ storedName + "!";
 	}
-	*/
-
+	
+*/
 myButton.onclick = function(){
 	setUserName();
 }
